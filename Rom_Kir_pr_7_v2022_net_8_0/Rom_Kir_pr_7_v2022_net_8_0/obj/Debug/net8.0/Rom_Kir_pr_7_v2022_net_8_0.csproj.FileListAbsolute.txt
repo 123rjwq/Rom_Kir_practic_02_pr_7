@@ -1,0 +1,14 @@
+C:\Users\cakyr\Desktop\education practice\Rom_Kir_pr_7_v2022_net_8_0\Rom_Kir_pr_7_v2022_net_8_0\obj\Debug\net8.0\Rom_Kir_pr_7_v2022_net_8_0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cakyr\Desktop\education practice\Rom_Kir_pr_7_v2022_net_8_0\Rom_Kir_pr_7_v2022_net_8_0\obj\Debug\net8.0\Rom_Kir_pr_7_v2022_net_8_0.AssemblyInfoInputs.cache
+C:\Users\cakyr\Desktop\education practice\Rom_Kir_pr_7_v2022_net_8_0\Rom_Kir_pr_7_v2022_net_8_0\obj\Debug\net8.0\Rom_Kir_pr_7_v2022_net_8_0.AssemblyInfo.cs
+C:\Users\cakyr\Desktop\education practice\Rom_Kir_pr_7_v2022_net_8_0\Rom_Kir_pr_7_v2022_net_8_0\obj\Debug\net8.0\Rom_Kir_pr_7_v2022_net_8_0.csproj.CoreCompileInputs.cache
+C:\Users\cakyr\Desktop\education practice\Rom_Kir_pr_7_v2022_net_8_0\Rom_Kir_pr_7_v2022_net_8_0\bin\Debug\net8.0\Rom_Kir_pr_7_v2022_net_8_0.exe
+C:\Users\cakyr\Desktop\education practice\Rom_Kir_pr_7_v2022_net_8_0\Rom_Kir_pr_7_v2022_net_8_0\bin\Debug\net8.0\Rom_Kir_pr_7_v2022_net_8_0.deps.json
+C:\Users\cakyr\Desktop\education practice\Rom_Kir_pr_7_v2022_net_8_0\Rom_Kir_pr_7_v2022_net_8_0\bin\Debug\net8.0\Rom_Kir_pr_7_v2022_net_8_0.runtimeconfig.json
+C:\Users\cakyr\Desktop\education practice\Rom_Kir_pr_7_v2022_net_8_0\Rom_Kir_pr_7_v2022_net_8_0\bin\Debug\net8.0\Rom_Kir_pr_7_v2022_net_8_0.dll
+C:\Users\cakyr\Desktop\education practice\Rom_Kir_pr_7_v2022_net_8_0\Rom_Kir_pr_7_v2022_net_8_0\bin\Debug\net8.0\Rom_Kir_pr_7_v2022_net_8_0.pdb
+C:\Users\cakyr\Desktop\education practice\Rom_Kir_pr_7_v2022_net_8_0\Rom_Kir_pr_7_v2022_net_8_0\obj\Debug\net8.0\Rom_Kir_pr_7_v2022_net_8_0.dll
+C:\Users\cakyr\Desktop\education practice\Rom_Kir_pr_7_v2022_net_8_0\Rom_Kir_pr_7_v2022_net_8_0\obj\Debug\net8.0\refint\Rom_Kir_pr_7_v2022_net_8_0.dll
+C:\Users\cakyr\Desktop\education practice\Rom_Kir_pr_7_v2022_net_8_0\Rom_Kir_pr_7_v2022_net_8_0\obj\Debug\net8.0\Rom_Kir_pr_7_v2022_net_8_0.pdb
+C:\Users\cakyr\Desktop\education practice\Rom_Kir_pr_7_v2022_net_8_0\Rom_Kir_pr_7_v2022_net_8_0\obj\Debug\net8.0\Rom_Kir_pr_7_v2022_net_8_0.genruntimeconfig.cache
+C:\Users\cakyr\Desktop\education practice\Rom_Kir_pr_7_v2022_net_8_0\Rom_Kir_pr_7_v2022_net_8_0\obj\Debug\net8.0\ref\Rom_Kir_pr_7_v2022_net_8_0.dll

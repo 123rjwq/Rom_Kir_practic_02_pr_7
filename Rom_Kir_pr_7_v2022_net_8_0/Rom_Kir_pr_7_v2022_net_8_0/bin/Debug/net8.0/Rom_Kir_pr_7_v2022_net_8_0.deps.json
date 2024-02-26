@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Rom_Kir_pr_7_v2022_net_8_0/1.0.0": {
+        "runtime": {
+          "Rom_Kir_pr_7_v2022_net_8_0.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rom_Kir_pr_7_v2022_net_8_0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
